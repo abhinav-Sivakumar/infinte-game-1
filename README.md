@@ -1,1 +1,2 @@
-# infinte-game-1
+# gametrex1
+Infinite Runner
